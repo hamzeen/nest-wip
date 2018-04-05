@@ -1,0 +1,16 @@
+{
+    "posts": [
+        {
+            "title": "post1",
+            "body": "Hi there! welcome to my static blog. This is my first post made with nest"
+        },
+        {
+            "title": "post2",
+            "body": "this is another post with html markup"
+        },
+        {
+            "title": "post3",
+            "body": "a quote \"not all those wnader are lost\""
+        }
+    ]
+}

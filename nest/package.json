@@ -1,0 +1,22 @@
+{
+  "name": "nest",
+  "version": "1.0.0",
+  "description": "static blogging made simple",
+  "main": "router.js",
+
+  "scripts": {
+    "build": "node src/build.js",
+    "build-serve": "npm run build && node router.js",
+    "watch": "nodemon index.js",
+    "start": "node router.js"
+  },
+  "keywords": [
+    "blog",
+    "static"
+  ],
+  "author": "Hamzeen. H.",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
