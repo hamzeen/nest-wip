@@ -1,8 +1,9 @@
 # Nest
 
 ## next look
-https://github.com/sbstjn/node-blog
-day/light mode: https://sbstjn.com/timesheet.js/
+https://github.com/sbstjn/node-blog . 
+day/light mode: https://sbstjn.com/timesheet.js/ .     
+https://cranky-morse-79acc7.netlify.com/
 
 ## routing
 https://stackoverflow.com/questions/18931452/node-js-get-path-from-the-request
