@@ -4,7 +4,8 @@
 https://github.com/sbstjn/node-blog    
 day/light mode: https://sbstjn.com/timesheet.js/      
 https://cranky-morse-79acc7.netlify.com/    
-https://github.com/sitepoint-editors/MicroBlog    
+*** http://srchea.com/light-weight-blog-generator-with-node-js-and-markdown    
+**  https://github.com/sitepoint-editors/MicroBlog    
 
 ## routing
 https://stackoverflow.com/questions/18931452/node-js-get-path-from-the-request
