@@ -1,5 +1,9 @@
 # Nest
 
+## next look
+https://github.com/sbstjn/node-blog
+day/light mode: https://sbstjn.com/timesheet.js/
+
 ## routing
 https://stackoverflow.com/questions/18931452/node-js-get-path-from-the-request
 
@@ -21,7 +25,7 @@ let student = JSON.parse(rawdata);
 console.log(student); 
 
 
-Using Controllers
+## Using Controllers
 https://github.com/amiklosi/Comicr/blob/master/app.js
 
 ## NodeJS Simple Server Guide
